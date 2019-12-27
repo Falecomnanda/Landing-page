@@ -1,0 +1,31 @@
+# Criado por https://www.gitignore.io/api/react,visualstudiocode
+# Editar em https://www.gitignore.io/?templates=react,visualstudiocode
+
+### reagir ###
+.DS_ *
+*.registro
+Histórico
+**/*.cópia de segurança.*
+**/*.costas.*
+
+node_modules
+bower_componets
+
+*.sublime*
+
+psd
+polegar
+esboço
+
+### VisualStudioCode ###
+.vscode / *
+! .vscode / settings.json
+! .vscode / tasks.json
+! .vscode / launch.json
+! .vscode / extensions.json
+
+### Patch do VisualStudioCode ###
+# Ignora todo o histórico local de arquivos
+.história
+
+# Fim de https://www.gitignore.io/api/react,visualstudiocode
