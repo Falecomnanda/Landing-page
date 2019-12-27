@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './components/navbar';
 import Jumbotron from './components/jumbotroncontainer';
-import Card from './components/Card';
+import Card from './components/card';
 import Footerx from './components/footer';
 
 const App = (props) => {
